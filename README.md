@@ -16,3 +16,8 @@ Kujundada ja programmeerida iseseisvalt töötav kalkulaator. Võib vabalt kasut
 1. `README.md` failis on välja toodud autori nimi, ekraanipilt rakendusest ja kirjeldatud funktsionaalsus
 
 Kasutasin õpetust: https://www.youtube.com/watch?v=WA3EFIB8-wU
+Elena Dunajeva
+![image](https://user-images.githubusercontent.com/55079917/121007740-d78a7b00-c79a-11eb-8a1a-a7a5e672e09f.png)
+
+Kalkulaator on primitiivse disainiga, väga lihtne, ise lisasin kolm funktsiooni: sin, cos ja tan
+Kalkulaator arvutab +, -, /, *, ruutjuurt, %, x2, sin, cos ja tan
